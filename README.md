@@ -18,3 +18,6 @@ A simple **command-line weather assistant** that fetches real-time weather data 
 2. Install dependencies:
    ```bash
    npm install node-fetch readline dotenv
+
+
+## IMPORTANT->Include .env containing API Keys and node modules
